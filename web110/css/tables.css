@@ -10,7 +10,7 @@ table {
 }
 
 tr:nth-child(even){
-    color: darkseagreen
+    color: #8fbc8f;
 }
 
 thead tr {
@@ -19,4 +19,27 @@ thead tr {
 td, th{
     border: 1px solid #000;
     padding: .5em;
+}
+
+li.con{
+    color: #be5252;
+}
+li.br{
+    color: white;
+}
+
+.g {
+    color: #8fbc8f;
+}
+
+.b {
+    color: #000;
+}
+
+.column{
+    width: 1em;
+}
+
+td.aia{
+    width: 33%;
 }
